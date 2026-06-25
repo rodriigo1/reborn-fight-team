@@ -1,0 +1,5 @@
+# Dependências do Node.js (não fazer commit)
+node_modules/
+
+# Variáveis de ambiente (contém dados sensíveis)
+.env
